@@ -62,7 +62,7 @@ export default function Social() {
                     Social Media
                 </SparklesText>
                 <HyperText className="text-base md:text-lg text-white py-4 mt-2 text-center">
-                    Jittiphat Somsai
+                Suphason Keawbuadee
                 </HyperText>
                 <div className="w-full max-w-80 md:max-w-md h-full rounded-4xl bg-slate-300/10 backdrop-blur-lg p-4 md:p-6 mt-4">
                     <ShineBorder shineColor={["#A07CFE", "#FE8FB5", "#FFBE7B"]} />

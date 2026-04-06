@@ -57,7 +57,7 @@ export default function Links() {
                 <SparklesText className="text-4xl md:text-4xl p-2 font-bold mb-2 mt-20 md:mt-22 text-center">
                     Link
                 </SparklesText>
-                <HyperText className="text-base md:text-lg text-white py-4 mt-2 text-center">Jittiphat Somsai</HyperText>
+                <HyperText className="text-base md:text-lg text-white py-4 mt-2 text-center">Suphason Keawbuadee</HyperText>
                 <div className="w-full max-w-sm md:max-w-md h-full rounded-4xl bg-slate-300/10 backdrop-blur-lg p-4 md:p-5 mt-4">
                     <ShineBorder shineColor={["#A07CFE", "#FE8FB5", "#FFBE7B"]} />
                     <div className="flex flex-col items-center text-center">
